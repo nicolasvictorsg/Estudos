@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card{
+    width: 750px;
+    border: 1px solid #fd0000;
+    display: flex;
+    flex-direction: row;
+}
+
+.card_left, .card_ritgh{
+    border: 1px solid #006680;
+}
+
+.card_left{
+    
+}
