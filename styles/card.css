@@ -5,6 +5,13 @@
     font-family: 'Segoe UI', sans-serif;
 }
 
+.conteiner{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
 .card{
     width: 60%;
     display: flex;
