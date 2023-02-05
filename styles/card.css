@@ -4,14 +4,13 @@
     box-sizing: border-box;
     font-family: 'Segoe UI', sans-serif;
 }
-/*
+
 .conteiner{
     width: 100%;
     display: flex;
     justify-content: center;
 
 }
-*/
 
 .card{
     width: 60%;
