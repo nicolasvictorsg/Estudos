@@ -3,18 +3,19 @@
     padding: 5px;
     box-sizing: border-box;
     font-family: 'Segoe UI', sans-serif;
-    background-color: #741ec5;
+    background-color: rgb(99, 17, 176);
+
 }
+
 
 .conteiner{
     width: 100%;
     display: flex;
     justify-content: center;
-
 }
 
 .card{
-    width: 60%;
+    width: 55%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
